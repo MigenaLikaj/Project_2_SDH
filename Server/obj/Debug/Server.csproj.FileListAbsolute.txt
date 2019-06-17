@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Project_2_SDH\Server\bin\Debug\Server.exe.config
+C:\Users\HP\source\repos\Project_2_SDH\Server\bin\Debug\Server.exe
+C:\Users\HP\source\repos\Project_2_SDH\Server\bin\Debug\Server.pdb
+C:\Users\HP\source\repos\Project_2_SDH\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Project_2_SDH\Server\obj\Debug\Server.exe
+C:\Users\HP\source\repos\Project_2_SDH\Server\obj\Debug\Server.pdb
+C:\Users\HP\source\repos\Project_2_SDH\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Project_2_SDH\Server\bin\Debug\Server.exe.config
+C:\Users\HP\Desktop\Project_2_SDH\Server\bin\Debug\Server.exe
+C:\Users\HP\Desktop\Project_2_SDH\Server\bin\Debug\Server.pdb
+C:\Users\HP\Desktop\Project_2_SDH\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Project_2_SDH\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project_2_SDH\Server\obj\Debug\Server.exe
+C:\Users\HP\Desktop\Project_2_SDH\Server\obj\Debug\Server.pdb
